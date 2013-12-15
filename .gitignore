@@ -2,3 +2,6 @@ UnityProject/Library/
 UnityProject/Temp/
 UnityProject/Build/
 *.sln
+*.csproj
+
+UnityProject/obj/Debug/Assembly-CSharp.csproj.FilesWrittenAbsolute.txt
